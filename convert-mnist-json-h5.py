@@ -12,7 +12,7 @@ import tensorflow as tf
 # In[2]:
 
 
-model_file = "model.json"
+model_file = "metadata.json"
 weights_file = "weights.h5"
 
 
